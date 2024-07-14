@@ -1,0 +1,18 @@
+1-Class---> 'N' no.of Objects
+Eg: 1.Class-12th (Class)
+      Object-->Store 50 student inforamtion
+      1.Roll-Number
+      2.Name
+      3.Address
+      4.Mob-Number etc...
+
+* Object-->real life entity
+* Object are instance of Class
+
+Class---->Blue-Print
+
+-----------------------------***************------------------------
+
+Array v/s  Class
+
+Classs------>User Difined DATATYPE
