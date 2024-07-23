@@ -1,0 +1,57 @@
+Enter the PIN: 
+1234
+Enter Your Choice:
+1: Check A/C Balance:
+2: Withdraw Money:
+3: Deposit Money:
+4: EXIT
+1
+Balance: 0.0
+Enter Your Choice:
+1: Check A/C Balance:
+2: Withdraw Money:
+3: Deposit Money:
+4: EXIT
+2
+Enter Amount to Withdraw
+20000
+You have Less Money {or} Not Sufficient Balance
+Enter Your Choice:
+1: Check A/C Balance:
+2: Withdraw Money:
+3: Deposit Money:
+4: EXIT
+3
+Enter tje Amount:
+10000
+Money Deposited SucessfullY.....
+Enter Your Choice:
+1: Check A/C Balance:
+2: Withdraw Money:
+3: Deposit Money:
+4: EXIT
+1
+Balance: 10000.0
+Enter Your Choice:
+1: Check A/C Balance:
+2: Withdraw Money:
+3: Deposit Money:
+4: EXIT
+2
+Enter Amount to Withdraw
+5000
+Money withdrawal SuccesfullY...
+Enter Your Choice:
+1: Check A/C Balance:
+2: Withdraw Money:
+3: Deposit Money:
+4: EXIT
+1
+Balance: 5000.0
+Enter Your Choice:
+1: Check A/C Balance:
+2: Withdraw Money:
+3: Deposit Money:
+4: EXIT
+5
+Enter a valid choice*******
